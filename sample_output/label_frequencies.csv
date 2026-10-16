@@ -1,0 +1,20 @@
+label,occurrences,family
+PR,163,Prompt response
+CoM,133,Conversation management
+P:I,88,Instructor prompts
+P:IQ,69,Instructor prompts
+RN,51,Instructor reaction
+CM,50,Classroom management
+F:Pr,46,Feedback
+F:Ack,27,Feedback
+F:MF,23,Feedback
+UNK,18,Unknown
+F:EC,3,Feedback
+R:IR,2,Uptake/repair
+SP:CQ,2,Learner prompts
+F:CR,1,Feedback
+F:EL,1,Feedback
+F:NE,1,Feedback
+R:S,1,Uptake/repair
+P:CQ,1,Instructor prompts
+R:Ack,1,Uptake/repair

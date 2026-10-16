@@ -1,0 +1,201 @@
+﻿sentence_id,source_turn_number,start_time,end_time,speaker,sentence,speaker_role,labels,error_labels,confidence
+1,1,00:00.0,00:03.9,Student2,Estás pidiendo a.,learner,PR,Er:M,HIGH
+2,2,00:03.9,00:07.5,Instructor1,Sí es como no es firma.,instructor,F:MF,,MEDIUM
+3,2,00:03.9,00:07.5,Instructor1,Es como un.,instructor,F:MF,,MEDIUM
+4,3,00:07.5,00:09.3,Student2,No más 1.,learner,PR,Er:M,HIGH
+5,3,00:07.5,00:09.3,Student2,"Ok, que está bien.",learner,CoM,,HIGH
+6,4,00:09.3,00:12.8,Instructor1,"Ajá, que está bien como clase, es y ya no?",instructor,RN,,HIGH
+7,5,00:13.5,00:15.4,Student2,"Claro, Okay, Lo voy a hacer.",learner,"CoM, CM",,HIGH
+8,6,00:15.4,00:16.7,Instructor1,"Hola, Student1.",instructor,P:I,,HIGH
+9,7,00:17.2,00:18.0,Student1,Hola.,learner,PR,,HIGH
+10,8,00:19.1,00:20.8,Instructor1,Eso porque no me sale aquí.,instructor,CM,,HIGH
+11,8,00:19.1,00:20.8,Instructor1,Bueno.,instructor,CoM,,HIGH
+12,9,00:21.0,00:23.4,Instructor1,déjenme que abro eso porque está ya.,instructor,CM,,HIGH
+13,10,00:23.4,00:24.4,Student1,Sí.,learner,CoM,,HIGH
+14,11,00:27.1,00:33.2,Instructor1,Hombre.,instructor,CoM,,HIGH
+15,11,00:27.1,00:33.2,Instructor1,"Si ya Okay, Bueno, entonces yo comparto con ustedes.",instructor,"CoM, CM",,HIGH
+16,11,00:27.1,00:33.2,Instructor1,Siempre trato de hacerlo.,instructor,CM,,HIGH
+17,12,00:34.1,00:35.5,Instructor1,Los,instructor,UNK,,LOW
+18,13,00:37.1,00:46.2,Instructor1,¡Ay!,instructor,CoM,,HIGH
+19,13,00:37.1,00:46.2,Instructor1,No siempre trato de compartirlos antes del fin de semana.,instructor,CM,,HIGH
+20,13,00:37.1,00:46.2,Instructor1,Y también les envío siempre.,instructor,CM,,HIGH
+21,13,00:37.1,00:46.2,Instructor1,Leen mis mis anuncios.,instructor,CM,,HIGH
+22,14,00:47.5,00:59.5,Instructor1,"les mandé un material también porque la mayoría sí tienen muy buenos ensayos, pero veo que no hay.",instructor,CM,,HIGH
+23,14,00:47.5,00:59.5,Instructor1,No integran las citas dentro del de su ensayo.,instructor,CM,,HIGH
+24,14,00:47.5,00:59.5,Instructor1,Okay les mandé ejemplos.,instructor,"CoM, CM",,HIGH
+25,14,00:47.5,00:59.5,Instructor1,"Sí, los quiero.",instructor,RN,,MEDIUM
+26,15,00:59.9,01:00.5,Student2,Sí.,learner,CoM,,HIGH
+27,16,01:00.5,01:05.2,Instructor1,Y también les mandé como una guía.,instructor,CM,,HIGH
+28,16,01:00.5,01:05.2,Instructor1,Hay un vídeo corto también.,instructor,CM,,HIGH
+29,17,01:06.1,01:12.3,Instructor1,Okay.,instructor,CoM,,HIGH
+30,17,01:06.1,01:12.3,Instructor1,Pero tienen muy buenos buitra.,instructor,RN,,MEDIUM
+31,17,01:06.1,01:12.3,Instructor1,Otra cosa que les iba a decir también es que cuando hagan Mhm.,instructor,CM,,MEDIUM
+32,18,01:13.0,01:16.3,Instructor1,perdón cuando estén escribiendo,instructor,CM,,HIGH
+33,19,01:16.8,01:24.1,Instructor1,autoco.,instructor,CM,,LOW
+34,19,01:16.8,01:24.1,Instructor1,"No sé si han visto que las les subraya la palabra cuando tiene algún error, Entonces auto",instructor,CM,,HIGH
+35,20,01:24.7,01:29.2,Instructor1,auto check.,instructor,CM,,HIGH
+36,20,01:24.7,01:29.2,Instructor1,"Entonces para que lo corrijan, también está bien que lo corrijan, Sí.",instructor,P:I,,HIGH
+37,21,01:29.4,01:30.1,Student2,Okay.,learner,CoM,,HIGH
+38,22,01:30.1,01:35.8,Instructor1,Okay.,instructor,CoM,,HIGH
+39,22,01:30.1,01:35.8,Instructor1,"Bueno, entonces este es el módulo, 4",instructor,CM,,HIGH
+40,22,01:30.1,01:35.8,Instructor1,¿cierto?,instructor,CoM,,HIGH
+41,23,01:36.2,01:37.3,Instructor1,Y es.,instructor,CM,,MEDIUM
+42,24,01:37.8,01:42.9,Instructor1,pues la parte 2 de la unidad 5 que se llama la publicidad para latinos en Estados Unidos.,instructor,CM,,HIGH
+43,25,01:43.1,01:49.0,Instructor1,"Ok, Nuestros 2 objetivos son estos Student1  .",instructor,CM,,HIGH
+44,25,01:43.1,01:49.0,Instructor1,"Lo puedes leer, explorar y analizar.",instructor,P:I,,HIGH
+45,26,01:49.6,01:54.4,Student1,Explorar y analizar estrategias.,learner,PR,,HIGH
+46,27,01:54.4,01:55.9,Instructor1,Mhm.,instructor,CoM,,HIGH
+47,28,01:56.6,02:03.3,Student1,Est estrategias de mercadeo hacia los latinos en los Estados Unidos.,learner,PR,Er:L,HIGH
+48,29,02:03.3,02:03.9,Instructor1,No es.,instructor,F:CR,,HIGH
+49,30,02:03.9,02:05.4,Student1,A la división de.,learner,PR,,HIGH
+50,31,02:05.7,02:06.1,Instructor1,Y la.,instructor,F:EL,,HIGH
+51,32,02:06.1,02:06.6,Student1,Es como.,learner,R:IR,,HIGH
+52,33,02:06.6,02:08.1,Instructor1,Estrategias.,instructor,F:EC,,HIGH
+53,34,02:08.1,02:08.8,Student1,De este.,learner,R:IR,,HIGH
+54,35,02:09.0,02:09.9,Student1,¡ay.,learner,CoM,,HIGH
+55,36,02:09.9,02:16.9,Instructor1,Okay.,instructor,CoM,,HIGH
+56,36,02:09.9,02:16.9,Instructor1,Muy bien.,instructor,F:Pr,,HIGH
+57,36,02:09.9,02:16.9,Instructor1,Entonces vamos a comenzar.,instructor,CM,,HIGH
+58,36,02:09.9,02:16.9,Instructor1,"Student3, que te llamó la atención de estos 2 rótulos.",instructor,"CM, P:IQ",,HIGH
+59,37,02:17.8,02:18.4,Student3,Los es.,learner,PR,Er:G,HIGH
+60,38,02:18.4,02:19.6,Instructor1,Dos publicidades.,instructor,F:Ack,,HIGH
+61,39,02:20.2,02:30.9,Student3,"Sí, hay un anuncio en español y el otro está en inglés y a ver.",learner,PR,,HIGH
+62,40,02:33.8,02:34.9,Instructor1,Muy bien.,instructor,F:Pr,,HIGH
+63,40,02:33.8,02:34.9,Instructor1,Muy bien.,instructor,F:Pr,,HIGH
+64,41,02:34.9,02:35.6,Student3,Turnos.,learner,CoM,,MEDIUM
+65,42,02:35.6,02:40.2,Instructor1,"Student1, que te llamó la",instructor,CM,,MEDIUM
+66,42,02:35.6,02:40.2,Instructor1,¿A quién van dirigidos estos anuncios?,instructor,P:IQ,,HIGH
+67,42,02:35.6,02:40.2,Instructor1,Student2.,instructor,CM,,HIGH
+68,43,02:40.2,02:53.1,Student2,¿a quién?,learner,PR,,HIGH
+69,43,02:40.2,02:53.1,Student2,Pues 1 tiene?,learner,PR,Er:M,HIGH
+70,43,02:40.2,02:53.1,Student2,"Está usando el spanglish, porque tiene faster than igual.",learner,PR,Er:L,HIGH
+71,43,02:40.2,02:53.1,Student2,Una flying Chancla está dirigido a la,learner,PR,Er:L,HIGH
+72,44,02:53.4,02:57.1,Student2,a persona que habla inglés y también español.,learner,PR,,HIGH
+73,45,02:57.4,03:02.6,Instructor1,"Muy bien, y el primero?",instructor,"F:Pr, P:IQ",,HIGH
+74,45,02:57.4,03:02.6,Instructor1,"también, No?",instructor,P:IQ,,HIGH
+75,46,03:02.6,03:10.8,Student2,"Ya para mí, el del Dr.",learner,PR,,HIGH
+76,46,03:02.6,03:10.8,Student2,"Pepper, la mujer se para mí se se mira como Selena un poco.",learner,PR,,HIGH
+77,47,03:11.0,03:19.0,Instructor1,"Sí, Sí, sí, Muy bien.",instructor,F:Pr,,HIGH
+78,47,03:11.0,03:19.0,Instructor1,"Entonces podrían decir que, como primera segunda generación",instructor,P:I,,HIGH
+79,47,03:11.0,03:19.0,Instructor1,¿verdad?,instructor,CoM,,HIGH
+80,47,03:11.0,03:19.0,Instructor1,Pero creen que podría ir dirigido a sus padres?,instructor,P:IQ,,HIGH
+81,48,03:20.1,03:21.0,Student2,Sí.,learner,PR,,HIGH
+82,49,03:21.0,03:34.6,Instructor1,"También podría verdad, porque a veces, pues los padres, cuando ya tienen mucho tiempo, también adquieren también bastante del idioma Muy bien,  Student4, en qué podri?",instructor,"F:Pr, P:IQ",,MEDIUM
+83,49,03:21.0,03:34.6,Instructor1,En qué lugares podríamos encontrar estos anuncios?,instructor,P:IQ,,HIGH
+84,49,03:21.0,03:34.6,Instructor1,"Por ejemplo, tú dónde vives,  Student4?",instructor,P:IQ,,HIGH
+85,50,03:36.4,03:38.8,Instructor1,"O bueno, Student4 es o  Student4.",instructor,CoM,,HIGH
+86,51,03:39.1,03:44.9,Student4,vive en Hanisen Beach.,learner,PR,,HIGH
+87,51,03:39.1,03:44.9,Student4,Ïm not really good at putting my words out in Spanish,learner,PR,Er:EU,HIGH
+88,52,03:44.9,03:45.4,Instructor1,"No, no.",instructor,RN,,HIGH
+89,53,03:45.4,03:53.5,Student4,Pero cli reducen varias.,learner,PR,Er:M,HIGH
+90,54,03:53.5,03:53.9,Instructor1,Después.,instructor,CoM,,HIGH
+91,55,03:53.9,03:54.4,Student4,¡ah!,learner,CoM,,HIGH
+92,55,03:53.9,03:54.4,Student4,Mora.,learner,PR,,MEDIUM
+93,56,03:54.4,03:56.7,Instructor1,Puedes puedes usar ambos idiomas.,instructor,F:MF,,HIGH
+94,57,03:56.7,03:57.2,Student4,A ver.,learner,CoM,,HIGH
+95,58,03:57.2,03:57.6,Instructor1,Muy bien.,instructor,F:Pr,,HIGH
+96,59,03:57.6,04:01.8,Student4,Gracias.,learner,CoM,,HIGH
+97,60,04:28.7,04:35.7,Instructor1,No está bien.,instructor,F:NE,,HIGH
+98,60,04:28.7,04:35.7,Instructor1,No te preocupes.,instructor,RN,,HIGH
+99,60,04:28.7,04:35.7,Instructor1,"¿qué puede ser igual cuando tú pues sientas que quieres aportarnos, nos dices, Ok.",instructor,P:I,,HIGH
+100,61,04:36.0,04:36.5,Student4,Cogí.,learner,CoM,,HIGH
+101,62,04:36.5,04:40.5,Instructor1,Y también puedes hablar.,instructor,P:I,,HIGH
+102,62,04:36.5,04:40.5,Instructor1,Puedes mezclar los 2.,instructor,P:I,,HIGH
+103,62,04:36.5,04:40.5,Instructor1,No hay ningún problema.,instructor,RN,,HIGH
+104,63,04:40.5,04:41.1,Student4,Okay.,learner,CoM,,HIGH
+105,64,04:41.1,04:46.4,Instructor1,Okay.,instructor,CoM,,HIGH
+106,64,04:41.1,04:46.4,Instructor1,Entonces Student1  ,instructor,CM,,HIGH
+107,64,04:41.1,04:46.4,Instructor1,¿En qué lugares podríamos encontrar estos anuncios?,instructor,P:IQ,,HIGH
+108,65,04:46.8,04:51.8,Student1,En lugares donde hablan los 2.,learner,PR,,HIGH
+109,65,04:46.8,04:51.8,Student1,Los 2 lenguaje de sol.,learner,PR,Er:M,HIGH
+110,66,04:51.8,04:52.5,Instructor1,Ajá entonces.,instructor,CoM,,HIGH
+111,67,04:52.5,04:58.0,Student1,"California en Texas, en que Arizona.",learner,PR,Er:G,HIGH
+112,67,04:52.5,04:58.0,Student1,¿qué más?,learner,CoM,,HIGH
+113,67,04:52.5,04:58.0,Student1,Nueva York también.,learner,PR,,HIGH
+114,68,04:58.0,05:09.8,Instructor1,"Solo que en Nueva York creen que podríamos utili verlo con como así, igual o no, o sería diferente acuérdense que allá.",instructor,F:MF,,HIGH
+115,68,04:58.0,05:09.8,Instructor1,"Es otra variedad, no que sería la puertorriqueña más caribeña.",instructor,F:MF,,HIGH
+116,69,05:10.6,05:20.5,Instructor1,utilicen como otro tipo de de variedad del español.,instructor,F:MF,,HIGH
+117,69,05:10.6,05:20.5,Instructor1,"Pero esta me parece más como para el southwest, cierto?",instructor,F:MF,,HIGH
+118,70,05:20.6,05:28.7,Instructor1,"para Colorado, Nevada, estas zonas, por la Ere, por la por la cercanía a México.",instructor,F:MF,,HIGH
+119,71,05:28.9,05:39.7,Instructor1,"Entonces, Student3",instructor,CM,,HIGH
+120,71,05:28.9,05:39.7,Instructor1,¿Por qué son los latinos un grupo importante para los anuncios y la publicidad en los Estados Unidos?,instructor,P:IQ,,HIGH
+121,72,05:40.5,05:52.0,Student3,"Bueno, creo que no sé.",learner,PR,,HIGH
+122,72,05:40.5,05:52.0,Student3,Hay muchos loot latinos en los Estados Unidos entonces es un mercado para,learner,PR,Er:L,HIGH
+123,73,05:52.3,05:57.1,Student3,como grabar su atención.,learner,PR,Er:L,HIGH
+124,73,05:52.3,05:57.1,Student3,Y,learner,CoM,,HIGH
+125,74,05:57.4,06:05.6,Student3,"sí, ha Hay mucha gente que habla español también en los Estados Unidos, y hay anuncios que solo",learner,PR,Er:G,HIGH
+126,75,06:05.9,06:16.2,Student3,como habla en español para sí para consigue su atención y cómo un marcado sí.,learner,PR,Er:M,HIGH
+127,76,06:16.2,06:22.0,Instructor1,Muy bien es cierto.,instructor,F:Pr,,HIGH
+128,76,06:16.2,06:22.0,Instructor1,¿y por qué más Student2?,instructor,P:IQ,,HIGH
+129,76,06:16.2,06:22.0,Instructor1,Porqué más son importantes los latinos.,instructor,P:IQ,,HIGH
+130,77,06:22.0,06:30.7,Student2,Yo creo que porque hay mucha gente.,learner,PR,,HIGH
+131,77,06:22.0,06:30.7,Student2,So Tienen un un enorme poder de comprar como mucho el dinero.,learner,PR,Er:M,HIGH
+132,78,06:31.0,06:33.2,Instructor1,Un poder adquisitivo no.,instructor,F:EC,,HIGH
+133,79,06:33.2,06:34.4,Student2,"Yea exacto, No.",learner,CoM,,HIGH
+134,80,06:34.4,06:44.6,Instructor1,Sí.,instructor,F:Ack,,HIGH
+135,80,06:34.4,06:44.6,Instructor1,"Por ejemplo, si ustedes van a un outlet aquí, yo he ido.",instructor,F:Ack,,HIGH
+136,80,06:34.4,06:44.6,Instructor1,"A veces la mayoría de se ven hispanos, No, como somos muy, consumis muy consumistas.",instructor,F:Ack,,HIGH
+137,81,06:44.6,06:45.1,Student1,Mhm.,learner,CoM,,HIGH
+138,82,06:45.1,07:04.7,Instructor1,"Muy bien, y tú   Student4 crees.",instructor,"F:Pr, P:IQ",,HIGH
+139,82,06:45.1,07:04.7,Instructor1,"Bueno, no sé si tú crees que es Im",instructor,P:IQ,,MEDIUM
+140,82,06:45.1,07:04.7,Instructor1,"¿Por qué crees que podría ser importante los latinos para el mercado para la publicidad en los Estados Unidos?, también, aparte de que tienen un poder adquisitivo.",instructor,P:IQ,,HIGH
+141,82,06:45.1,07:04.7,Instructor1,"Como dijo Student1, como dijo Student3, que también no hay.",instructor,P:IQ,,HIGH
+142,83,07:04.9,07:11.4,Instructor1,"pues, mucha población y pues les interesa traer ese mercado.",instructor,P:IQ,,HIGH
+143,83,07:04.9,07:11.4,Instructor1,¿por qué otra razón creerías tú?,instructor,P:IQ,,HIGH
+144,84,07:12.9,07:16.6,Student4,Mhm.,learner,CoM,,HIGH
+145,85,07:17.0,07:19.2,Instructor1,Lo puedes decir en inglés también.,instructor,P:I,,HIGH
+146,86,07:21.8,07:26.9,Instructor1,¿por qué crees que es importante?,instructor,P:IQ,,HIGH
+147,86,07:21.8,07:26.9,Instructor1,Los latinos en el marketing de los Estados Unidos.,instructor,P:IQ,,HIGH
+148,87,07:26.9,07:28.6,Student4,"Claro lo que no es que, pues.",learner,PR,,HIGH
+149,88,07:28.8,07:30.3,Instructor1,Sí está bien.,instructor,F:Ack,,HIGH
+150,88,07:28.8,07:30.3,Instructor1,Ok?,instructor,CoM,,HIGH
+151,89,07:30.5,07:32.7,Instructor1,Y tú?,instructor,P:IQ,,HIGH
+152,89,07:30.5,07:32.7,Instructor1,Myco  .,instructor,CM,,HIGH
+153,90,07:36.4,07:45.6,Student1,"Mhm, Pues aquí, y obviamente estoy diciendo diciendo que",learner,PR,,HIGH
+154,91,07:45.9,07:48.9,Student1,los por las bebidas por el azúcar.,learner,PR,,HIGH
+155,92,07:49.6,07:52.3,Student1,"La la azúcar, como todos nosotros.",learner,PR,,HIGH
+156,93,07:52.5,07:56.1,Student1,"trabajando en Starbucks, esta persona, pues casi todos eran la",learner,PR,,HIGH
+157,94,07:56.6,08:03.5,Student1,"los capuchinos, pues los latinos siempre ganan, los capuchinos son más mejor.",learner,PR,Er:G,HIGH
+158,94,07:56.6,08:03.5,Student1,"Estoy diciendo, como",learner,PR,,HIGH
+159,95,08:03.9,08:08.3,Student1,"los bebés caras, la intención a los latinos.",learner,PR,Er:M,HIGH
+160,96,08:08.5,08:13.0,Instructor1,"Las bebidas, la comida y esas cosas muy bien.",instructor,F:Pr,,HIGH
+161,97,08:13.4,08:16.7,Instructor1,"Bueno, entonces seguimos con la publicidad en los latinos.",instructor,CM,,HIGH
+162,98,08:16.9,08:27.8,Instructor1,Student3,instructor,CM,,HIGH
+163,98,08:16.9,08:27.8,Instructor1,¿Cómo muestran las compañías interés en la población latina.,instructor,P:IQ,,HIGH
+164,98,08:16.9,08:27.8,Instructor1,"Hay algunas estrategias, por ejemplo, que puedas mencionar?",instructor,P:IQ,,HIGH
+165,99,08:27.8,08:39.2,Student3,"Sí para empezar como pa como poner los anuncios en español, para empezar, y también como los",learner,PR,,HIGH
+166,100,08:39.9,08:47.4,Student3,"los temas de cómo la cultura de latinos, Creo, como",learner,PR,Er:G,HIGH
+167,101,08:48.2,08:55.7,Student3,"no sé, hay hay temas diferentes que son muy importantes para la gente la latina.",learner,PR,Er:G,HIGH
+168,102,08:56.1,09:10.4,Student3,y creo que los anuncios quieren mostrar que este producto es es para a ellos también.,learner,PR,Er:G,HIGH
+169,102,08:56.1,09:10.4,Student3,Y sí.,learner,PR,,HIGH
+170,103,09:11.0,09:14.3,Instructor1,"Bien, Muy bien.",instructor,F:Pr,,HIGH
+171,103,09:11.0,09:14.3,Instructor1,¿qué otra estrategia usan Student1.,instructor,P:IQ,,HIGH
+172,104,09:14.9,09:25.0,Student2,"A pueden utilizar, como, digamos, primero ejemplo, la usar los idiomas",learner,PR,Er:G,HIGH
+173,105,09:25.2,09:38.0,Student2,"inglés, español, también de otras.",learner,PR,,HIGH
+174,105,09:25.2,09:38.0,Student2,"Como dijimos de Nueva York como hay de puertorriqueño, también como cubano influence.",learner,PR,Er:L,HIGH
+175,105,09:25.2,09:38.0,Student2,También ahí se pueden.,learner,PR,Er:G,HIGH
+176,106,09:38.4,09:47.8,Student2,como usar l de como se la latino.,learner,PR,Er:M,HIGH
+177,106,09:38.4,09:47.8,Student2,Hablantes Son individuos.,learner,PR,Er:G,HIGH
+178,107,09:48.0,09:48.4,Instructor1,Mhm.,instructor,CoM,,HIGH
+179,108,09:48.4,09:54.7,Student2,Utilizar en en cada market como para para ellos específicamente.,learner,PR,Er:L,HIGH
+180,109,09:54.9,10:07.5,Instructor1,"Muy bien, dependiendo del grupo",instructor,F:Pr,,HIGH
+181,109,09:54.9,10:07.5,Instructor1,¿verdad?,instructor,CoM,,HIGH
+182,109,09:54.9,10:07.5,Instructor1,"Que para que pertenecen no es lo mismo la publicidad, como tú dijiste, para latinos en Nueva York que latinos aquí en en Arizona, Por ejemplo.",instructor,F:Ack,,HIGH
+183,110,10:08.2,10:21.0,Instructor1,"¿qué Student1 nos podrías decir algunos ejemplos de empresas que, has visto que tienen publicidad dirigida para la población latina o hispana en los Estados Unidos?",instructor,P:IQ,,HIGH
+184,111,10:22.8,10:26.6,Instructor1,"Starbucks tiene, por ejemplo, publicidad para latinos o no.",instructor,P:IQ,,HIGH
+185,112,10:28.9,10:30.4,Student2,Mhm.,learner,CoM,,HIGH
+186,113,10:30.4,10:31.0,Student1,Dos.,learner,PR,,HIGH
+187,114,10:31.4,10:32.1,Student2,Bien.,learner,CoM,,HIGH
+188,115,10:32.1,10:36.3,Student1,"Creo que desde como 2 años, tuvimos algo de de Chile.",learner,PR,,HIGH
+189,116,10:36.7,10:38.0,Instructor1,"Ohh, de Chile.",instructor,RN,,HIGH
+190,117,10:38.0,10:42.6,Student1,"Queda como casi 2 años, y quería nosotros para",learner,PR,Er:G,HIGH
+191,118,10:42.7,10:48.3,Student1,"casi los latinos, para comprar esa bebida.",learner,PR,,HIGH
+192,118,10:42.7,10:48.3,Student1,"Pero esa bebida, y no sé, no estaba buena.",learner,PR,,HIGH
+193,119,10:48.6,10:58.2,Instructor1,"Ohh: Sí, Tal vez",instructor,RN,,HIGH
+194,119,10:48.6,10:58.2,Instructor1,¿verdad?,instructor,CoM,,HIGH
+195,119,10:48.6,10:58.2,Instructor1,Pero en la lectura menciona que menciona una tienda muy grande que se llama Target.,instructor,P:I,,HIGH
+196,119,10:48.6,10:58.2,Instructor1,¿cierto?,instructor,CoM,,HIGH
+197,120,10:58.7,10:59.1,Student1,Sí.,learner,CoM,,HIGH
+198,121,10:59.4,11:02.0,Instructor1,Si vieron ustedes algún anuncio de Target?,instructor,P:IQ,,HIGH
+199,122,11:03.1,11:05.5,Student1,"Mhm, No, no.",learner,PR,,HIGH
+200,123,11:05.5,11:11.9,Instructor1,"A ver las Telef, las compañías telefónicas.",instructor,P:I,,HIGH

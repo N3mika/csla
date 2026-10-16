@@ -1,0 +1,5 @@
+learner,sentence_rows,words,turns,prompt_response_rows,uptake_rows,error_rows,error_rows_per_100_learner_rows,grammar_rows,lexical_rows,multiple_error_rows,english_rows
+Student2,81,439,60,54,1,17,21.0,4,5,8,0
+Student1,68,371,52,53,2,17,25.0,7,4,6,0
+Student3,58,413,47,49,1,17,29.3,10,4,3,0
+Student4,14,39,12,7,0,3,21.4,0,1,1,1
